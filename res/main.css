@@ -1,0 +1,97 @@
+body {
+	margin: 0px;
+	font-size: 100%;
+	font-family: 'Helvetica', 'Open Sans',sans-serif;
+	color: rgba(0%, 0%, 0%, 0.7);
+	background: rgb(249, 249, 249);
+}
+
+/* Container divs */
+#main {
+	position: relative;
+	width: 100%;
+	top: 200px;
+	min-width: 500px;
+}
+
+#search {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	text-align: center;
+}
+
+#main > div, #search > div { position: relative; padding: 5px; }
+
+#main > div { width: 60%; min-width: 450px; margin: auto; }
+
+#search > div { position: relative; center: 0px; height: 2em; }
+
+.spacer {
+	display: block; clear: both;
+	color: transparent; background: transparent;
+	margin: 0px; padding: 0px;
+}
+
+#main > div > .spacer { height: 4em }
+
+/* Main area styling */
+
+#main h1 {
+	margin: 6px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#main a {
+	display: inline-block;
+	margin: 6px;
+	padding: 12px;
+	text-decoration: none;
+	vertical-align: middle;
+	text-align: center;
+	color: inherit;
+	background: rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+}
+
+#main a:hover {
+	background: rgba(0, 0, 0, 0.20);
+}
+
+#main a > img {
+	width: 28px;
+	height: 28px;
+	vertical-align: middle;
+	padding: 10px;
+}
+
+/* Search bar */
+#search form {
+	margin: 80px;
+	display: inline-block;
+	position: relative;
+	background: rgba(100%, 100%, 100%, 0.9);
+	border: 1px;
+	border-style: solid;
+	border-color: grey;
+	border-radius: 4px;
+}
+
+#search form input {
+	display: inline;
+	position: relative;
+	padding: 0.5em;
+	font-size: 14px;
+	color: inherit;
+	background: transparent;
+	border: none;
+}
+
+#search form #g_btn:hover {
+	color: white;
+	background-color: black;
+	border-radius: 4px;
+}
