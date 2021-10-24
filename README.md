@@ -6,6 +6,11 @@ Provides a search bar with the versatile DuckDuckGo engine (learn the use of [ba
 
 ![STRT](https://github.com/heychrisd/strt/blob/main/pics/screenshot.png)
 
+<p align="left">
+ <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/strt?style=for-the-badge">
+ <img alt="codelines" name="codelines" src="https://img.shields.io/tokei/lines/github/heychrisd/strt?label=code%20lines&style=for-the-badge">
+</p>
+
 ### Why a local quick start for web browsers?
 
 Easy: have full control of it. ¯\_(ツ)_/¯
@@ -27,4 +32,10 @@ Open *strt.html* with your web browser. You can configure it to use STRT as defa
 > Clean bakground (white)
 > 
 > Comment `<script src="res/color.js"></script>` or `<script>setColor();</script>` line.
+
+---
+
+Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
+
+*christiandiaz.design@gmail.com*
 
