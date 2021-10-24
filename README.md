@@ -6,7 +6,7 @@ Provides a search bar with the versatile DuckDuckGo engine (learn the use of [ba
 
 ![STRT](https://github.com/heychrisd/strt/blob/main/pics/screenshot.png)
 
-<p align="left">
+<p align="center">
  <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/strt?style=for-the-badge">
  <img alt="codelines" name="codelines" src="https://img.shields.io/tokei/lines/github/heychrisd/strt?label=code%20lines&style=for-the-badge">
 </p>
