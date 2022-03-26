@@ -4,11 +4,11 @@ STRT is a local and personal quick start page for web browsers. Its minimalist d
 
 Provides a search bar with the versatile DuckDuckGo engine (learn the use of [bangs!](https://help.duckduckgo.com/duckduckgo-help-pages/features/bangs/)), as well as cool colored backgrounds.
 
-![STRT](https://github.com/heychrisd/strt/blob/main/pics/screenshot.png)
+![STRT](https://github.com/thecheis/strt/blob/main/pics/screenshot.png)
 
 <p align="center">
- <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/strt?style=for-the-badge">
- <img alt="codelines" name="codelines" src="https://img.shields.io/tokei/lines/github/heychrisd/strt?label=code%20lines&style=for-the-badge">
+ <img alt="size" name="size" src="https://img.shields.io/github/repo-size/thecheis/strt?style=for-the-badge">
+ <img alt="codelines" name="codelines" src="https://img.shields.io/tokei/lines/github/thecheis/strt?label=code%20lines&style=for-the-badge">
 </p>
 
 ### Why a local quick start for web browsers?
@@ -35,7 +35,7 @@ Open *strt.html* with your web browser. You can configure it to use STRT as defa
 
 ---
 
-Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
+Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
 
 *christiandiaz.design@gmail.com*
 
